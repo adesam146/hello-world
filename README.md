@@ -1,2 +1,2 @@
 # hello-world
-hello world repositiory
+learning and trying
